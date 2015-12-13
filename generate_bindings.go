@@ -713,11 +713,11 @@ func createStatsFile() {
 }
 
 const (
-	kBindingsFilename        = "gotalib/bindings.go"
-	kFunctionArrayFilename   = "gotalib/function_array.go"
-	kTimePeriodArrayFilename = "gotalib/time_period_array.go"
-	kTaFunctionFilename      = "gotalib/ta_function.go"
-	kStatsOutputFilename     = "gotalib/ta_stats.go"
+	kBindingsFilename        = "../gotalib/bindings.go"
+	kFunctionArrayFilename   = "../gotalib/function_array.go"
+	kTimePeriodArrayFilename = "../gotalib/time_period_array.go"
+	kTaFunctionFilename      = "../gotalib/ta_function.go"
+	kStatsOutputFilename     = "../gotalib/ta_stats.go"
 
 	kLibraryName = "gotalib"
 )
